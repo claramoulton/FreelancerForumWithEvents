@@ -1,0 +1,12 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#productsList {
+  border: solid 2px thistle;
+}
+
+#productsList li {
+  border: solid 1px mediumturquoise;
+  padding: 0.5rem;
+}
